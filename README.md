@@ -61,4 +61,3 @@ The core logic of this project resides in the `main.c` file. Below is an overvie
 * **I2C Protocol:** Custom implementation to write to and read from the INA226 and BME280 sensors.
 * **Safety Loop:** A fast 50 ms loop updates the soft-start PWM and LED states, while a slower 1-second loop recalculates battery stats and triggers safety flags if necessary.
 
-*(Kod dosyalarını deponun ana dizinine yükledikten sonra bu kısma kodunun github linkini ekleyebilirsin)*
